@@ -27,7 +27,6 @@ ul {
 }
 
 li{
-    /* had to add this in github  */
     margin: 3vh;
     border-bottom: 1px solid grey;
     display: flex;
@@ -46,8 +45,6 @@ input[type="text"] {
 }
 
 .delete {
-    /* had to update this in github */
-
     background: rgb(241, 53, 32);
     background: linear-gradient(90deg, rgba(241, 53, 32, 1) 0%, rgba(245, 17, 48, 1) 19%, rgba(252, 78, 69, 1) 100%);
     margin-bottom: 2vh;;
